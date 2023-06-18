@@ -62,7 +62,12 @@ GITHUB上分享的程式[Zeqiang-Lai/DragGAN](https://github.com/Zeqiang-Lai/Dra
 ![screencapture-127-0-0-1-7860-1685353010458](https://github.com/Ellinaa/sp111b/assets/99786204/874caa70-d566-4104-84b3-c95a3d968ca4)
 
 # 心得
-剛開始在網路上看到這個新的GAN覺得很有趣，根本就是高級的修圖軟體，可以自己生成缺少的部分，而且使用方法也很簡單，只要把點標註好稍微調整一下左邊介面的參數就可以了，
+剛開始在網路上看到這個新的GAN覺得很有趣，根本就是高級的修圖軟體，而且可以自己生成缺少的部分，使用方法也很簡單，只要把點標註好調整一下左邊介面的參數就可以了。目前官方的程式碼還沒出來只能先用GITHUB上分享的非官方程式體驗一下，但也發現了目標點跟處理點的顏色好像反過來了，文章裡是寫``` handle points (red) and target points (blue) ```。
+
+這學期也試著使用ChatGPT幫助我寫報告，但是資訊跟資料不能太新，如圖![image](https://github.com/Ellinaa/sp111b/assets/99786204/ea81e2d5-ab57-4235-8dd3-b62231746fa8)
+
+不然就會像我的[習題3](https://github.com/Ellinaa/sp111b/tree/main/EX/3)一樣跑出很多不相關的資料，但是整理報告的使用起來的體驗還行，希望ChatGPT還能繼續免費的使用下去。
+
 
 
 
@@ -70,6 +75,8 @@ GITHUB上分享的程式[Zeqiang-Lai/DragGAN](https://github.com/Zeqiang-Lai/Dra
 
 
 # 參考資料
+使用ChatGPT整理內容
+
 [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN)
 
 [Zeqiang-Lai/DragGAN](https://github.com/Zeqiang-Lai/DragGAN)
